@@ -86,12 +86,13 @@ struct ExpenseChartView: View {
                                     .font(.title2)
                                     .fontWeight(.bold)
                             }
+                            .foregroundStyle(Color.text_primary_color)
                             .position(x: frame.midX, y: frame.midY)
                         }
                     }
                 }
         }.frame(height: 250)
             .padding(20)
-            .background(Color.white.cornerRadius(15))
+            .background(Color.primary_color.cornerRadius(15))
     }
 }
