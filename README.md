@@ -17,6 +17,19 @@ The Expensiv - An Expense Tracker iOS App is an easy-to-use application designed
 - Persistence: Core Data and UserDefaults
 - Architecture: MVVM (Model-View-ViewModel)
 
+ # Light Mode
+
+Dashboard | Categories | Add/Edit Transaction | Settings 
+--- | --- | --- |--- 
+![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Dashboard_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Categories_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Add_Expense_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Settings_light.png)
+
+# Dark Mode
+
+Dashboard | Categories | Add/Edit Transaction | Settings 
+--- | --- | --- |--- 
+![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Dashboard_dark.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Categories_dark.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Add_Expense_dark.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Settings_dark.png)
+
+
 # Screens
 The app consists of the following main screens:
 - Authentication Screen: Secure login using Face ID or passcode. The authentication process ensures that sensitive financial data is protected and that only authorized users can access the app.
@@ -25,10 +38,4 @@ The app consists of the following main screens:
 - Categories Screen: View your expense and income categories, each represented visually using a pie chart. The ViewModel provides the data for the chart, while the View renders the chart and allows users to interact with it.
 - Settings Screen: Customize your app settings, including currency preferences and enabling/disabling the app lock. The settings are saved and persisted using the Model layer, and the ViewModel ensures that changes are reflected in the UI.
 - About Screen: Provides details about the app, including version information, developer details, and legal disclaimers. It’s a static screen but can be extended if you wish to add more information in the future.
-
-# Light Mode
-
-Dashboard | Categories | Add/Edit Transaction | Settings 
---- | --- | --- |--- 
-![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Dashboard_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Categories_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Add_Expense_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Settings_light.png)
 
