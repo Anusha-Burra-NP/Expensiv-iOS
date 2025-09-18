@@ -30,3 +30,5 @@ The app consists of the following main screens:
 
 Dashboard | Categories | Add/Edit Transaction | Settings 
 --- | --- | --- |--- 
+![Alt text]https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Dashboard_light.png
+
