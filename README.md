@@ -30,5 +30,5 @@ The app consists of the following main screens:
 
 Dashboard | Categories | Add/Edit Transaction | Settings 
 --- | --- | --- |--- 
-![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Dashboard_light.png)
+![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Dashboard_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Categories_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Add_Expense_light.png) | ![Alt text](https://github.com/Anusha-Burra-NP/Expensiv-iOS/blob/main/Screenshots/Settings_light.png)
 
